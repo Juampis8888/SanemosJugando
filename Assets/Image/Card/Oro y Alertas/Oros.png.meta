@@ -1,0 +1,3456 @@
+fileFormatVersion: 2
+guid: 60b68a5b9b0894341957f881ba0ca58b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4465164522912416263
+    second: Oros_0
+  - first:
+      213: 7036723345122839971
+    second: Oros_1
+  - first:
+      213: -8297721471695874727
+    second: Oros_2
+  - first:
+      213: 1280903509314293520
+    second: Oros_3
+  - first:
+      213: -650922982830355464
+    second: Oros_4
+  - first:
+      213: -325729198353763291
+    second: Oros_5
+  - first:
+      213: -1146944906667976380
+    second: Oros_6
+  - first:
+      213: -8701056767761761849
+    second: Oros_7
+  - first:
+      213: -5721059866753064147
+    second: Oros_8
+  - first:
+      213: -2356376192726456511
+    second: Oros_9
+  - first:
+      213: 8762510949324772678
+    second: Oros_10
+  - first:
+      213: 1263175716619289109
+    second: Oros_11
+  - first:
+      213: 6176615022449046817
+    second: Oros_12
+  - first:
+      213: 5860560826111055365
+    second: Oros_13
+  - first:
+      213: -7747589885052934169
+    second: Oros_14
+  - first:
+      213: 8643503567552133188
+    second: Oros_15
+  - first:
+      213: 6467212048923780067
+    second: Oros_16
+  - first:
+      213: 6335764264468806832
+    second: Oros_17
+  - first:
+      213: 590285326280391793
+    second: Oros_18
+  - first:
+      213: 2491047777926197508
+    second: Oros_19
+  - first:
+      213: -5200039783812860278
+    second: Oros_20
+  - first:
+      213: 5991998167543204001
+    second: Oros_21
+  - first:
+      213: -8621002242595931323
+    second: Oros_22
+  - first:
+      213: -561668447588689781
+    second: Oros_23
+  - first:
+      213: 6177840351767053581
+    second: Oros_24
+  - first:
+      213: -8697553618309808797
+    second: Oros_25
+  - first:
+      213: -1111024958213810376
+    second: Oros_26
+  - first:
+      213: 5663317274140794076
+    second: Oros_27
+  - first:
+      213: 4570017626479574626
+    second: Oros_28
+  - first:
+      213: -902610249611600644
+    second: Oros_29
+  - first:
+      213: -4996110288574245952
+    second: Oros_30
+  - first:
+      213: -5676026209492590837
+    second: Oros_31
+  - first:
+      213: -3569075196014080735
+    second: Oros_32
+  - first:
+      213: 8932261953528629998
+    second: Oros_33
+  - first:
+      213: 1170760816741515911
+    second: Oros_34
+  - first:
+      213: 3627684274785540403
+    second: Oros_35
+  - first:
+      213: 2547288521527863410
+    second: Oros_36
+  - first:
+      213: -1256325689155977552
+    second: Oros_37
+  - first:
+      213: -3088108001175231103
+    second: Oros_38
+  - first:
+      213: -8373822238132254192
+    second: Oros_39
+  - first:
+      213: 3983392730474705563
+    second: Oros_40
+  - first:
+      213: -434130445105042890
+    second: Oros_41
+  - first:
+      213: 4614970578810259488
+    second: Oros_42
+  - first:
+      213: -2770778600390088090
+    second: Oros_43
+  - first:
+      213: 2264007443540932008
+    second: Oros_44
+  - first:
+      213: 4906998046479897823
+    second: Oros_45
+  - first:
+      213: -8793154574835102628
+    second: Oros_46
+  - first:
+      213: 911555819381867532
+    second: Oros_47
+  - first:
+      213: -4492617015812339830
+    second: Oros_48
+  - first:
+      213: 7407550158411460111
+    second: Oros_49
+  - first:
+      213: -7213831386134210050
+    second: Oros_50
+  - first:
+      213: 3682045163828454953
+    second: Oros_51
+  - first:
+      213: -296499297960503898
+    second: Oros_52
+  - first:
+      213: -3280667744743402962
+    second: Oros_53
+  - first:
+      213: -3206491068283080121
+    second: Oros_54
+  - first:
+      213: 5623168226478106944
+    second: Oros_55
+  - first:
+      213: -1582521670003688947
+    second: Oros_56
+  - first:
+      213: 3805762171184751401
+    second: Oros_57
+  - first:
+      213: 8901950955675896618
+    second: Oros_58
+  - first:
+      213: 1715903287302578669
+    second: Oros_59
+  - first:
+      213: -410385841025519715
+    second: Oros_60
+  - first:
+      213: 2364413008559719421
+    second: Oros_61
+  - first:
+      213: 5734025106581477117
+    second: Oros_62
+  - first:
+      213: -565548421286269907
+    second: Oros_63
+  - first:
+      213: -204492622459001523
+    second: Oros_64
+  - first:
+      213: -6972763905780701298
+    second: Oros_65
+  - first:
+      213: -8350229894348511508
+    second: Oros_66
+  - first:
+      213: 8515909748117399379
+    second: Oros_67
+  - first:
+      213: 4366577189390468151
+    second: Oros_68
+  - first:
+      213: -5800268445659226430
+    second: Oros_69
+  - first:
+      213: 1869125082103198265
+    second: Oros_70
+  - first:
+      213: -5923924849195510059
+    second: Oros_71
+  - first:
+      213: 5427609421629577929
+    second: Oros_72
+  - first:
+      213: 294058452896608184
+    second: Oros_73
+  - first:
+      213: -3719631310357557457
+    second: Oros_74
+  - first:
+      213: -7409378926795655955
+    second: Oros_75
+  - first:
+      213: -5835950695468692100
+    second: Oros_76
+  - first:
+      213: -2921608665982413336
+    second: Oros_77
+  - first:
+      213: -5071316287274573729
+    second: Oros_78
+  - first:
+      213: -7749055445053452215
+    second: Oros_79
+  - first:
+      213: 535716236564663589
+    second: Oros_80
+  - first:
+      213: -5101336245370144202
+    second: Oros_81
+  - first:
+      213: 5179555512153866320
+    second: Oros_82
+  - first:
+      213: 288940070608819754
+    second: Oros_83
+  - first:
+      213: 2475861516356583490
+    second: Oros_84
+  - first:
+      213: -6911224666831063265
+    second: Oros_85
+  - first:
+      213: -8922544904885939131
+    second: Oros_86
+  - first:
+      213: -1974823647746554775
+    second: Oros_87
+  - first:
+      213: 4117663323703251537
+    second: Oros_88
+  - first:
+      213: -5505306836179100596
+    second: Oros_89
+  - first:
+      213: 976098887088717884
+    second: Oros_90
+  - first:
+      213: -1383669052306906259
+    second: Oros_91
+  - first:
+      213: -860117334399488656
+    second: Oros_92
+  - first:
+      213: 6144041049707128681
+    second: Oros_93
+  - first:
+      213: -1932104861270153222
+    second: Oros_94
+  - first:
+      213: 47598327322423243
+    second: Oros_95
+  - first:
+      213: 5903663690556047778
+    second: Oros_96
+  - first:
+      213: -7545063835541118894
+    second: Oros_97
+  - first:
+      213: 7420393558622591899
+    second: Oros_98
+  - first:
+      213: 5409549889673806005
+    second: Oros_99
+  - first:
+      213: -8057799506112670258
+    second: Oros_100
+  - first:
+      213: 8778528885480331246
+    second: Oros_101
+  - first:
+      213: -253088207369522087
+    second: Oros_102
+  - first:
+      213: -7966557566075957248
+    second: Oros_103
+  - first:
+      213: 8261379934602498332
+    second: Oros_104
+  - first:
+      213: -1903120899431477432
+    second: Oros_105
+  - first:
+      213: -2138269236882309216
+    second: Oros_106
+  - first:
+      213: 5315445316040562159
+    second: Oros_107
+  - first:
+      213: -5407296864936568293
+    second: Oros_108
+  - first:
+      213: -7811620078375260200
+    second: Oros_109
+  - first:
+      213: -7405316850440484924
+    second: Oros_110
+  - first:
+      213: 314411185533787694
+    second: Oros_111
+  - first:
+      213: 8013156524116081244
+    second: Oros_112
+  - first:
+      213: -7805375837351203185
+    second: Oros_113
+  - first:
+      213: 4523867378530286095
+    second: Oros_114
+  - first:
+      213: 48771458838266612
+    second: Oros_115
+  - first:
+      213: 4996702844293302602
+    second: Oros_116
+  - first:
+      213: -6411012783663320168
+    second: Oros_117
+  - first:
+      213: 7897241453359767833
+    second: Oros_118
+  - first:
+      213: 312948197397583661
+    second: Oros_119
+  - first:
+      213: 8642222694173471067
+    second: Oros_120
+  - first:
+      213: 6740944300914693196
+    second: Oros_121
+  - first:
+      213: -675235907088822578
+    second: Oros_122
+  - first:
+      213: 3504064240989621336
+    second: Oros_123
+  - first:
+      213: 2743215034034008123
+    second: Oros_124
+  - first:
+      213: -4497493076375555431
+    second: Oros_125
+  - first:
+      213: 1182916805321076700
+    second: Oros_126
+  - first:
+      213: -6799234842269216991
+    second: Oros_127
+  - first:
+      213: -9191451154028554796
+    second: Oros_128
+  - first:
+      213: -8950697820563477929
+    second: Oros_129
+  - first:
+      213: -2667639586482129427
+    second: Oros_130
+  - first:
+      213: 2130161452951874848
+    second: Oros_131
+  - first:
+      213: 343473274236468536
+    second: Oros_132
+  - first:
+      213: 1698692399864223805
+    second: Oros_133
+  - first:
+      213: -3282029522582491283
+    second: Oros_134
+  - first:
+      213: -6078102521240470211
+    second: Oros_135
+  - first:
+      213: -7267137649692907150
+    second: Oros_136
+  - first:
+      213: 1353931286309184941
+    second: Oros_137
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oros_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5399.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf02c168c8802c0800000000000000
+      internalID: -4465164522912416263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 5399.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adceb8a99677a160800000000000000
+      internalID: 7036723345122839971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_2
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 5399.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9559f62e84298dc80800000000000000
+      internalID: -8297721471695874727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_3
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 5399.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fca3884fea6c110800000000000000
+      internalID: 1280903509314293520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_4
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 5399.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4240fef477f6f0800000000000000
+      internalID: -650922982830355464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_5
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 5399.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b6271507ca7bf0800000000000000
+      internalID: -325729198353763291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5154.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4499c152fab3510f0800000000000000
+      internalID: -1146944906667976380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 5154.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c93d0b48f2af3780800000000000000
+      internalID: -8701056767761761849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_8
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 5154.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a077dc56ba90b0800000000000000
+      internalID: -5721059866753064147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_9
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 5154.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1472a5b56587c4fd0800000000000000
+      internalID: -2356376192726456511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_10
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 5154.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64559fa5841ba9970800000000000000
+      internalID: 8762510949324772678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_11
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 5154.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120ef52f93b78110800000000000000
+      internalID: 1263175716619289109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4909.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ba6743aeb7b550800000000000000
+      internalID: 6176615022449046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_13
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 4909.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5065be05505e45150800000000000000
+      internalID: 5860560826111055365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_14
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4909.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a20c4c080b7490800000000000000
+      internalID: -7747589885052934169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_15
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 4909.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44834ce03b4e3f770800000000000000
+      internalID: 8643503567552133188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_16
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 4909.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36a3ff71720c950800000000000000
+      internalID: 6467212048923780067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_17
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 4909.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf64cb7082de750800000000000000
+      internalID: 6335764264468806832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4664.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c7115706d113800800000000000000
+      internalID: 590285326280391793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_19
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 4664.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40131d181caf19220800000000000000
+      internalID: 2491047777926197508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_20
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4664.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a867feb1e5fb5d7b0800000000000000
+      internalID: -5200039783812860278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_21
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 4664.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8443f169ad72350800000000000000
+      internalID: 5991998167543204001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_22
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 4664.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b393ae22c0c5880800000000000000
+      internalID: -8621002242595931323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_23
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 4664.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885ee3d58d8438f0800000000000000
+      internalID: -561668447588689781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4419.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05462e71191cb550800000000000000
+      internalID: 6177840351767053581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_25
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 4419.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dfab5d0151c4780800000000000000
+      internalID: -8697553618309808797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_26
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4419.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837921ddfa8d490f0800000000000000
+      internalID: -1111024958213810376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_27
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 4419.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcde772e05289e40800000000000000
+      internalID: 5663317274140794076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_28
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 4419.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eb69b71d6fb6f30800000000000000
+      internalID: 4570017626479574626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_29
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 4419.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc164d92c84973f0800000000000000
+      internalID: -902610249611600644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4174.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c39bdeb9204aaab0800000000000000
+      internalID: -4996110288574245952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_31
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 4174.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f136f3c34ba31b0800000000000000
+      internalID: -5676026209492590837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_32
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 4174.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4cecd409187ec0800000000000000
+      internalID: -3569075196014080735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_33
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 4174.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea8fccebe4c5fb70800000000000000
+      internalID: 8932261953528629998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_34
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 4174.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78203d682c06f3010800000000000000
+      internalID: 1170760816741515911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_35
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 4174.5654
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339dcdba0af185230800000000000000
+      internalID: 3627684274785540403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3929.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278291a0a69c95320800000000000000
+      internalID: 2547288521527863410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_37
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3929.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bef8a72172a09ee0800000000000000
+      internalID: -1256325689155977552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_38
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3929.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185a8e96226d425d0800000000000000
+      internalID: -3088108001175231103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_39
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3929.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a4cd37a053acb80800000000000000
+      internalID: -8373822238132254192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_40
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3929.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9271dc559ad74730800000000000000
+      internalID: 3983392730474705563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_41
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3929.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae45909a8a9f9f0800000000000000
+      internalID: -434130445105042890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3684.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284dde4a4bab0040800000000000000
+      internalID: 4614970578810259488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_43
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3684.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aae7c0b873c89d0800000000000000
+      internalID: -2770778600390088090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_44
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3684.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f81156ce5b6f10800000000000000
+      internalID: 2264007443540932008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_45
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3684.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd458f199b8291440800000000000000
+      internalID: 4906998046479897823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_46
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3684.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c4ad7908078f580800000000000000
+      internalID: -8793154574835102628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_47
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3684.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c044237203f76ac00800000000000000
+      internalID: 911555819381867532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3439.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8741a480a407a1c0800000000000000
+      internalID: -4492617015812339830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_49
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3439.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ee0084f97ecc660800000000000000
+      internalID: 7407550158411460111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_50
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3439.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef918e7239253eb90800000000000000
+      internalID: -7213831386134210050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_51
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3439.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a0f47190491330800000000000000
+      internalID: 3682045163828454953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_52
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3439.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a559ec957f92ebf0800000000000000
+      internalID: -296499297960503898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_53
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3439.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22dc70611ab872d0800000000000000
+      internalID: -3280667744743402962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3194.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7423683bc514083d0800000000000000
+      internalID: -3206491068283080121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_55
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3194.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ad7b85b1890e40800000000000000
+      internalID: 5623168226478106944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_56
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 3194.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a721afce0c90ae0800000000000000
+      internalID: -1582521670003688947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_57
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 3194.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9232619e788c0d430800000000000000
+      internalID: 3805762171184751401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_58
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3194.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc209ca351a8b70800000000000000
+      internalID: 8901950955675896618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_59
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3194.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de16894d2fc10d710800000000000000
+      internalID: 1715903287302578669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2949.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe2dc70440e4af0800000000000000
+      internalID: -410385841025519715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_61
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2949.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3c385aa1510d020800000000000000
+      internalID: 2364413008559719421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_62
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2949.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d5fa4479539f40800000000000000
+      internalID: 5734025106581477117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_63
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2949.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce2fd05b4c628f0800000000000000
+      internalID: -565548421286269907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_64
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2949.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a4271b0f792df0800000000000000
+      internalID: -204492622459001523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_65
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2949.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a645cb24cb3f90800000000000000
+      internalID: -6972763905780701298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2704.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6628a07260e1c80800000000000000
+      internalID: -8350229894348511508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_67
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2704.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357e2d3fbc69e2670800000000000000
+      internalID: 8515909748117399379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_68
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2704.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73441f191d2399c30800000000000000
+      internalID: 4366577189390468151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_69
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2704.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce139e649e418fa0800000000000000
+      internalID: -5800268445659226430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_70
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2704.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932b88feb5770f910800000000000000
+      internalID: 1869125082103198265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_71
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2704.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d697976cbdf9cda0800000000000000
+      internalID: -5923924849195510059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2459.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca5bc3230eb25b40800000000000000
+      internalID: 5427609421629577929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_73
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2459.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf6a1cda94b41400800000000000000
+      internalID: 294058452896608184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_74
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2459.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f87bad707316cc0800000000000000
+      internalID: -3719631310357557457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_75
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2459.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de474166f199c2990800000000000000
+      internalID: -7409378926795655955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_76
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2459.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d05ed33c9820fa0800000000000000
+      internalID: -5835950695468692100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_77
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2459.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55a6bc56c5477d0800000000000000
+      internalID: -2921608665982413336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2214.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a859a4b01f99b0800000000000000
+      internalID: -5071316287274573729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_79
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2214.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94058c40123d57490800000000000000
+      internalID: -7749055445053452215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_80
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2214.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d88dc241f3f6700800000000000000
+      internalID: 535716236564663589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_81
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2214.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a33ee76b96439b0800000000000000
+      internalID: -5101336245370144202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_82
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 2214.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050095cbb4a71e740800000000000000
+      internalID: 5179555512153866320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_83
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2214.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d30e9675820400800000000000000
+      internalID: 288940070608819754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1969.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408e737ee60c5220800000000000000
+      internalID: 2475861516356583490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_85
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1969.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17fd9268c56610a0800000000000000
+      internalID: -6911224666831063265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_86
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1969.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5445dc3cea0cc2480800000000000000
+      internalID: -8922544904885939131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_87
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1969.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964860efa540894e0800000000000000
+      internalID: -1974823647746554775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_88
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1969.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529cf10af0e42930800000000000000
+      internalID: 4117663323703251537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_89
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1969.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd302d9983993b0800000000000000
+      internalID: -5505306836179100596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c39624cccb8d00800000000000000
+      internalID: 976098887088717884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_91
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1724.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ab82f3583ccce0800000000000000
+      internalID: -1383669052306906259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_92
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1724.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d66f967df3014f0800000000000000
+      internalID: -860117334399488656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_93
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1724.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967263d38c4044550800000000000000
+      internalID: 6144041049707128681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_94
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1724.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7ef2b8dd8cf25e0800000000000000
+      internalID: -1932104861270153222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_95
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1724.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa4ff2d6a19a000800000000000000
+      internalID: 47598327322423243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1479.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a107fcf8d60ee150800000000000000
+      internalID: 5903663690556047778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_97
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1479.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250ece2ca6c8a4790800000000000000
+      internalID: -7545063835541118894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_98
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1479.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bdb4b60a88af660800000000000000
+      internalID: 7420393558622591899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_99
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1479.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c2c0b6f4921b40800000000000000
+      internalID: 5409549889673806005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_100
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1479.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec516de8a02fc2090800000000000000
+      internalID: -8057799506112670258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_101
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1479.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee79f8db28993d970800000000000000
+      internalID: 8778528885480331246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95436e6cd99dc7cf0800000000000000
+      internalID: -253088207369522087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_103
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1234.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000975f2a1a117190800000000000000
+      internalID: -7966557566075957248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_104
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1234.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119584a74156a270800000000000000
+      internalID: 8261379934602498332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_105
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1234.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc3c800a1c695e0800000000000000
+      internalID: -1903120899431477432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_106
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1234.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0affb7545775352e0800000000000000
+      internalID: -2138269236882309216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_107
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1234.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59c9d3a5144c940800000000000000
+      internalID: 5315445316040562159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5f52862c65f4b0800000000000000
+      internalID: -5407296864936568293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_109
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 989.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df222c2dec879390800000000000000
+      internalID: -7811620078375260200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_110
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 989.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c7404f870b3990800000000000000
+      internalID: -7405316850440484924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_111
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 989.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e9623be430d5400800000000000000
+      internalID: 314411185533787694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_112
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 989.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5afa853763743f60800000000000000
+      internalID: 8013156524116081244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_113
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 989.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ea344d70cbda390800000000000000
+      internalID: -7805375837351203185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a764c896108ce30800000000000000
+      internalID: 4523867378530286095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_115
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 744.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f28b3722654da000800000000000000
+      internalID: 48771458838266612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_116
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 744.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49494263cad75540800000000000000
+      internalID: 4996702844293302602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_117
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 744.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893724b17d18707a0800000000000000
+      internalID: -6411012783663320168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_118
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 744.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911affca243a89d60800000000000000
+      internalID: 7897241453359767833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_119
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 744.5652
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d275bfa3ab0d75400800000000000000
+      internalID: 312948197397583661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 499.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51770c70c75fe770800000000000000
+      internalID: 8642222694173471067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_121
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 499.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d6ba6025ac8d50800000000000000
+      internalID: 6740944300914693196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_122
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 499.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecec162258411a6f0800000000000000
+      internalID: -675235907088822578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_123
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 499.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cc552acdfe0a030800000000000000
+      internalID: 3504064240989621336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_124
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 499.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30bb1e0a8bd11620800000000000000
+      internalID: 2743215034034008123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_125
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 499.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923bd230e1b591c0800000000000000
+      internalID: -4497493076375555431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfa00c21909a6010800000000000000
+      internalID: 1182916805321076700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_127
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 254.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f85125fe344a1a0800000000000000
+      internalID: -6799234842269216991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_128
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 254.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d516c1bfd7617080800000000000000
+      internalID: -9191451154028554796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_129
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 254.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a637941cbb8c380800000000000000
+      internalID: -8950697820563477929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_130
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 254.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de576fa0ee3aafad0800000000000000
+      internalID: -2667639586482129427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_131
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 254.56522
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d2d6d2e8adf8d10800000000000000
+      internalID: 2130161452951874848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9.565216
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d74b48f1344c400800000000000000
+      internalID: 343473274236468536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_133
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 9.565216
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d381094dcb7f29710800000000000000
+      internalID: 1698692399864223805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_134
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 9.565216
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2024c983e372d0800000000000000
+      internalID: -3282029522582491283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_135
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 9.565216
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d3e09c5fd36aba0800000000000000
+      internalID: -6078102521240470211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_136
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 9.565216
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279ef208fc0f52b90800000000000000
+      internalID: -7267137649692907150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oros_137
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 9.565216
+        width: 634.8333
+        height: 245.43478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da52fbad4512ac210800000000000000
+      internalID: 1353931286309184941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

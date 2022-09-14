@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: aeaa1b5de11f2f94ab5c4142bc4949df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7233299548673735823
+    second: Alertas_0
+  - first:
+      213: 2464276550590862441
+    second: Alertas_1
+  - first:
+      213: 8213319916055305514
+    second: Alertas_2
+  - first:
+      213: 5125955855393373924
+    second: Alertas_3
+  - first:
+      213: 2759419573859237083
+    second: Alertas_4
+  - first:
+      213: -78834378495428752
+    second: Alertas_5
+  - first:
+      213: 6141703707408229591
+    second: Alertas_6
+  - first:
+      213: -5597133084069335158
+    second: Alertas_7
+  - first:
+      213: 6821989677396015559
+    second: Alertas_8
+  - first:
+      213: -6826181135130771832
+    second: Alertas_9
+  - first:
+      213: -3152707720761252154
+    second: Alertas_10
+  - first:
+      213: -2850841653873594645
+    second: Alertas_11
+  - first:
+      213: -5423497322226953953
+    second: Alertas_12
+  - first:
+      213: 1371076212915739407
+    second: Alertas_13
+  - first:
+      213: 6060781285213064109
+    second: Alertas_14
+  - first:
+      213: -3277106211198504424
+    second: Alertas_15
+  - first:
+      213: -6281890815601226535
+    second: Alertas_16
+  - first:
+      213: 6972501564911711002
+    second: Alertas_17
+  - first:
+      213: -6152768749331628007
+    second: Alertas_18
+  - first:
+      213: 2068886577624017920
+    second: Alertas_19
+  - first:
+      213: 7354709549344634266
+    second: Alertas_20
+  - first:
+      213: -862932414160193624
+    second: Alertas_21
+  - first:
+      213: -1985962067614947867
+    second: Alertas_22
+  - first:
+      213: -2617045652980117162
+    second: Alertas_23
+  - first:
+      213: 5495311593901015962
+    second: Alertas_24
+  - first:
+      213: 8321782697751357834
+    second: Alertas_25
+  - first:
+      213: -7484086929780080078
+    second: Alertas_26
+  - first:
+      213: 4237637930212879319
+    second: Alertas_27
+  - first:
+      213: 2498880324458953242
+    second: Alertas_28
+  - first:
+      213: -5090489766782550881
+    second: Alertas_29
+  - first:
+      213: -1210473308829189529
+    second: Alertas_30
+  - first:
+      213: 2572729791891547700
+    second: Alertas_31
+  - first:
+      213: -8260969562627704004
+    second: Alertas_32
+  - first:
+      213: -5045210445426072732
+    second: Alertas_33
+  - first:
+      213: 6884258488265243886
+    second: Alertas_34
+  - first:
+      213: -998993396743892384
+    second: Alertas_35
+  - first:
+      213: -4902174424947411917
+    second: Alertas_36
+  - first:
+      213: 8589553287237224227
+    second: Alertas_37
+  - first:
+      213: 8386453308092127920
+    second: Alertas_38
+  - first:
+      213: 3898655128661135183
+    second: Alertas_39
+  - first:
+      213: 64093971468575261
+    second: Alertas_40
+  - first:
+      213: 3765195920267355989
+    second: Alertas_41
+  - first:
+      213: -6658126862859661492
+    second: Alertas_42
+  - first:
+      213: -7543921610019064192
+    second: Alertas_43
+  - first:
+      213: 4492022591456654336
+    second: Alertas_44
+  - first:
+      213: -4639276366619362001
+    second: Alertas_45
+  - first:
+      213: -2930578883156571081
+    second: Alertas_46
+  - first:
+      213: 7844892314865096806
+    second: Alertas_47
+  - first:
+      213: 2310895640895966955
+    second: Alertas_48
+  - first:
+      213: -4813191528548862618
+    second: Alertas_49
+  - first:
+      213: 268870084228592762
+    second: Alertas_50
+  - first:
+      213: 4328413012114194332
+    second: Alertas_51
+  - first:
+      213: -4620298356894128259
+    second: Alertas_52
+  - first:
+      213: 3990704596661677245
+    second: Alertas_53
+  - first:
+      213: 4374735426414656781
+    second: Alertas_54
+  - first:
+      213: 7223766736336024137
+    second: Alertas_55
+  - first:
+      213: -8570269311668438297
+    second: Alertas_56
+  - first:
+      213: 8262538343449596202
+    second: Alertas_57
+  - first:
+      213: 5052261919867478310
+    second: Alertas_58
+  - first:
+      213: 7372997098913885582
+    second: Alertas_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alertas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5442
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf0b8ad97d16460800000000000000
+      internalID: 7233299548673735823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5197
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641b4a677ed23220800000000000000
+      internalID: 2464276550590862441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4950
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d1e1792f29bf170800000000000000
+      internalID: 8213319916055305514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4701
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee3e0721bd032740800000000000000
+      internalID: 5125955855393373924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4451
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcb32e7b7d6b4620800000000000000
+      internalID: 2759419573859237083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4210
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f0b9ec8ce7eef0800000000000000
+      internalID: -78834378495428752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3974
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d464c35bf6bb3550800000000000000
+      internalID: 6141703707408229591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3724
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fe57b6d1df252b0800000000000000
+      internalID: -5597133084069335158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3485
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9329697739cae50800000000000000
+      internalID: 6821989677396015559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3235
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ebe0c9c688441a0800000000000000
+      internalID: -6826181135130771832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 5443
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e46f18055f34d0800000000000000
+      internalID: -3152707720761252154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 5198
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2af5ce96cf68d0800000000000000
+      internalID: -2850841653873594645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 4702
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11516c9beddbb4b0800000000000000
+      internalID: -5423497322226953953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 4953
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b94d62d8a070310800000000000000
+      internalID: 1371076212915739407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_14
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 4453
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc57ea7783c1450800000000000000
+      internalID: 6060781285213064109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4201
+        width: 640
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812794683416582d0800000000000000
+      internalID: -3277106211198504424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3963
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dccc4a069d32d8a0800000000000000
+      internalID: -6281890815601226535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_17
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 3721
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13fa6c3b3d43c060800000000000000
+      internalID: 6972501564911711002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3480
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910c6f6db69fc9aa0800000000000000
+      internalID: -6152768749331628007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_19
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3236
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6ad3816926bc10800000000000000
+      internalID: 2068886577624017920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_20
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 5442
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a953cd24e5d211660800000000000000
+      internalID: 7354709549344634266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 5200
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7bfc49a8f3604f0800000000000000
+      internalID: -862932414160193624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_22
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 4953
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5296685027074e0800000000000000
+      internalID: -1985962067614947867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_23
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 4701
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d32528d26eabd0800000000000000
+      internalID: -2617045652980117162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_24
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 4450
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a934e8c77c4434c40800000000000000
+      internalID: 5495311593901015962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_25
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 4207
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89267dd549ec7370800000000000000
+      internalID: 8321782697751357834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_26
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3962
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232805af69e232890800000000000000
+      internalID: -7484086929780080078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_27
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 3721
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6f0dde3d1fca30800000000000000
+      internalID: 4237637930212879319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_28
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3479
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab69b5a6ecda220800000000000000
+      internalID: 2498880324458953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_29
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3235
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c3a261782fa59b0800000000000000
+      internalID: -5090489766782550881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_30
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 5442
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af42160f8833fe0800000000000000
+      internalID: -1210473308829189529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_31
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 5198
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a2c46d1c24b320800000000000000
+      internalID: 2572729791891547700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_32
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 4953
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bf24783f32b5d80800000000000000
+      internalID: -8260969562627704004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_33
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 4700
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e94f94dfcbf9b0800000000000000
+      internalID: -5045210445426072732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_34
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 4457
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7407ee9cc98f50800000000000000
+      internalID: 6884258488265243886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_35
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 4206
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0629e1e6cccd222f0800000000000000
+      internalID: -998993396743892384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_36
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 3963
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3343106555af7fbb0800000000000000
+      internalID: -4902174424947411917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_37
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3718
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32740119439343770800000000000000
+      internalID: 8589553287237224227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_38
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3478
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1b32b9daa26470800000000000000
+      internalID: 8386453308092127920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_39
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 3233
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f0a9dfe2eca1630800000000000000
+      internalID: 3898655128661135183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_40
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 5442
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e0a1a025b3e000800000000000000
+      internalID: 64093971468575261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_41
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 5198
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55729499db9a04430800000000000000
+      internalID: 3765195920267355989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_42
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 4948
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f83cdf4e49993a0800000000000000
+      internalID: -6658126862859661492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_43
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 4702
+        width: 640
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086bb6dd34b9e4790800000000000000
+      internalID: -7543921610019064192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_44
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 4456
+        width: 640
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004bdc64fbed65e30800000000000000
+      internalID: 4492022591456654336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_45
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 4207
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2db9c879bafd9fb0800000000000000
+      internalID: -4639276366619362001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_46
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3959
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c013b580e7457d0800000000000000
+      internalID: -2930578883156571081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_47
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 3720
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668d9b01ff7aedc60800000000000000
+      internalID: 7844892314865096806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_48
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 3474
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4a9c7753f11020800000000000000
+      internalID: 2310895640895966955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_49
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 3235
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fce06ecb143db0800000000000000
+      internalID: -4813191528548862618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_50
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 5442
+        width: 631
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74bc25cae73bb300800000000000000
+      internalID: 268870084228592762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_51
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 5199
+        width: 634
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fbe3c93bc911c30800000000000000
+      internalID: 4328413012114194332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_52
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 4949
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d772101bf1761efb0800000000000000
+      internalID: -4620298356894128259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_53
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 4703
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbca98fdfa4d16730800000000000000
+      internalID: 3990704596661677245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_54
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 4452
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d33c521be26bc30800000000000000
+      internalID: 4374735426414656781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_55
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 4205
+        width: 640
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9427793d299ff3460800000000000000
+      internalID: 7223766736336024137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_56
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 3957
+        width: 636
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3290e779401980800000000000000
+      internalID: -8570269311668438297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_57
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3719
+        width: 634
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219b58b8de6aa270800000000000000
+      internalID: 8262538343449596202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_58
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 3476
+        width: 630
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212fe5b27d3d1640800000000000000
+      internalID: 5052261919867478310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alertas_59
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3232
+        width: 634
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d6fb23cc5225660800000000000000
+      internalID: 7372997098913885582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5f751e1a37ad3c48a261b2fc892fc05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
